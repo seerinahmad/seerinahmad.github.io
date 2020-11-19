@@ -33,7 +33,7 @@
 			#menu-bar-2-container {
 			    background-color:#A91717;
 				width:100%;
-				height:40px;
+				height:36px;
 				margin-top:10;
 			}
 			#menu-bar-2 {
@@ -48,7 +48,7 @@
 				border-right:1px solid #BB4545;
 				font-size:15px;
 				position:relative;
-				top:10px;
+				top:7px;
 			}
 			#menu-bar-2 a:hover {
 			    text-decoration:underline;
