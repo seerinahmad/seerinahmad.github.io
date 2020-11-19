@@ -7,7 +7,7 @@
 			    width:1000px;
 				margin:0 auto;
 				background-color:white;
-				height:20px;
+				height:5px;
 			}
 			body {
 			   margin:0;
@@ -19,33 +19,16 @@
 				height:100%;
 				margin-left:25px;
 				margin-right:25px;
-				margin-top:2px;
+				margin-top:10px;
 			}
 			.topbar-menu {
 			    font-weight:bold;
 				font-size:85%;
 				padding:0px 0px 0px 0px;
-				height:10px;
+				height:1px;
 			}
 			.clear {
 			    clear:both;
-			}
-			#menu-bar-container {
-			    background-color:#BB1919;
-				width:100%;
-				height:80px;
-			}
-			#menu-bar {
-			width:300px;
-			margin:0 auto;
-			text-align: center;
-			}
-			h1 {
-			padding:0;
-			margin:0;
-			color:white;
-			font-size:40px;
-			padding-top:10px;
 			}
 			#menu-bar-2-container {
 			    background-color:#A91717;
