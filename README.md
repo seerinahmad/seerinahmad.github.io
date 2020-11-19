@@ -49,7 +49,7 @@
 			#menu-bar-2 {
 			    width:100%;
 			    margin:0 auto;
-				height:50px;
+				height:20px;
 			}
 			#menu-bar-2 a {
 			    color:white;
