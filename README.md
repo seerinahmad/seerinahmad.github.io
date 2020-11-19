@@ -43,7 +43,7 @@
 			}
 			#menu-bar-2-container {
 			    background-color:#A91717;
-				width:1100px;
+				width:100%;
 				height:50px;
 				margin-top:15;
 			}
