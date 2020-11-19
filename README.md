@@ -40,6 +40,13 @@
 			margin:0 auto;
 			text-align: center;
 			}
+			h1 {
+			padding:0;
+			margin:0;
+			color:white;
+			font-size:40px;
+			padding-top:10px;
+			}
 			#menu-bar-2-container {
 			    background-color:#A91717;
 				width:100%;
@@ -118,7 +125,7 @@
 		<div class="clear"></div>
 		<div id="menu-bar-container">
 		<div id="menu-bar">
-		Seerin Ahmad
+		<h1>Seerin Ahmad</h1>
 		</div>
 		<div class="clear"></div>
 		<div id="menu-bar-2-container">
