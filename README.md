@@ -33,8 +33,8 @@
 			#menu-bar-2-container {
 			    background-color:#A91717;
 				width:100%;
-				height:35px;
-				margin-top:40;
+				height:40px;
+				margin-top:20;
 			}
 			#menu-bar-2 {
 			    width:100%;
