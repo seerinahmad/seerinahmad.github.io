@@ -28,7 +28,12 @@
 			    }
 			.clear {
 			    clear:both;
-
+                              }
+			#menu-bar-container {
+			    background-color:#BB1919;
+				width:100%;
+				height:100px;
+			}
 		</style>	   
 	</head>		
 
