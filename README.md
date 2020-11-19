@@ -34,7 +34,7 @@
 			    background-color:#A91717;
 				width:100%;
 				height:40px;
-				margin-top:20;
+				margin-top:10;
 			}
 			#menu-bar-2 {
 			    width:100%;
