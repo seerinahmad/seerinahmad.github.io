@@ -6,7 +6,7 @@
 		    #topbar {
 			    width:1000px;
 				margin:0 auto;
-				background-color:#101112;
+				background-color:#121012;
 				height:40px;
 			}
 			body {
