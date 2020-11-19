@@ -116,7 +116,7 @@
 			<a href="https://www.researchgate.net/profile/Seerin_Ahmad" style="text-decoration:none" target="_blank">ResearchGate</a></div>
 		</div>
 		
-		
+		<div class="clear"></div>
 		<div id="menu-bar-container">
 		<div id="menu-bar">
 		Seerin Ahmad
@@ -135,7 +135,7 @@
 				<a href="">More</a>
 		   </div>
 		</div>
-		<div class="clear"</div>
+		<div class="clear"></div>
 		<div id="page-container">
 		<div id="main-article">
 		      <h2>Home</h2>
