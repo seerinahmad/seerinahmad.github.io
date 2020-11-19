@@ -44,7 +44,7 @@
 			#menu-bar-2 a {
 			    color:white;
 			    text-decoration:none;
-				padding:0 10px;
+				padding:0 16px;
 				border-right:1px solid #BB4545;
 				font-size:18px;
 				position:relative;
@@ -109,11 +109,11 @@
 		<div id="menu-bar-2-container">
 		   <div id="menu-bar-2">
 		        <a href="home.html">Home</a>
-				<a href="edu_award.html">Education & Awards</a>
-				<a href="research_interests.html">Research Interests</a>
+				<a href="about_me.html">About Me</a>
 				<a href="publications.html">Publications</a>
+				<a href="research.html">Research</a>
 				<a href="activities.html">Activities</a>
-				<a href="shauq_e_seerin.html">YouTube Channel</a>
+				<a href="shauq_e_seerin.html">Blog</a>
 				<!--https://www.youtube.com/channel/UCzcBpEt1vfZwVyIIkZSEnGg-->
 				<a href="">More</a>
 		   </div>
