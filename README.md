@@ -6,7 +6,7 @@
 		    #topbar {
 			    width:1000px;
 				margin:0 auto;
-				background-color:#121012;
+				background-color:#E51EE5;
 				height:40px;
 			}
 			body {
@@ -17,9 +17,9 @@
 		    .topbar-section {
 			    float:left;
 				height:100%;
-				margin-left:15px;
-				margin-right:15px;
-				margin-top:5px;
+				margin-left:20px;
+				margin-right:20px;
+				margin-top:10px;
 			}
 			.topbar-menu {
 			    font-weight:bold;
