@@ -106,11 +106,6 @@
 		</div>
 		
 		<div class="clear"></div>
-		<div id="menu-bar-container">
-		<div id="menu-bar">
-		<h1>Seerin Ahmad</h1>
-		</div>
-		<div class="clear"></div>
 		<div id="menu-bar-2-container">
 		   <div id="menu-bar-2">
 		        <a href="home.html">Home</a>
