@@ -128,7 +128,6 @@
 				<a href="edu_award.html">Education & Awards</a>
 				<a href="research_interests.html">Research Interests</a>
 				<a href="publications.html">Publications</a>
-				<a href="projects_skills.html">Projects & Skills</a>
 				<a href="activities.html">Activities</a>
 				<a href="shauq_e_seerin.html">YouTube Channel</a>
 				<!--https://www.youtube.com/channel/UCzcBpEt1vfZwVyIIkZSEnGg-->
