@@ -6,8 +6,8 @@
 		    #topbar {
 			    width:1000px;
 				margin:0 auto;
-				background-color:#5E77A8;
-				height:30px;
+				background-color:#101112;
+				height:40px;
 			}
 			body {
 			   margin:0;
