@@ -12,7 +12,7 @@
 			body {
 			   margin:0;
 			   padding:0;
-			   font-family: Tahoma;
+			   font-family: Times New Roman;
 			}
 		    .topbar-section {
 			    float:left;
@@ -106,7 +106,7 @@
 		<div class="clear"></div>
 		<div id="menu-bar-2-container">
 		   <div id="menu-bar-2">
-		        <a href="home.html">Home</a>
+		                <a href="home.html">Home</a>
 				<a href="about_me.html">About Me</a>
 				<a href="publications.html">Publications</a>
 				<a href="research.html">Research</a>
