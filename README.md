@@ -87,8 +87,6 @@
 	 <body>
 	 
 	    <div id="topbar">
-		    <div class="topbar-section topbar-menu">
-			 My Academic IDs</div>
 			<div class="topbar-section topbar-menu">
 			<a href="https://osf.io/8cp4a" style="text-decoration:none" target="_blank">CV</a></div>
      	    <div class="topbar-section topbar-menu">
