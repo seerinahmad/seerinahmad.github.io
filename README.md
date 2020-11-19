@@ -7,7 +7,7 @@
 			    width:1000px;
 				margin:0 auto;
 				background-color:white;
-				height:25px;
+				height:20px;
 			}
 			body {
 			   margin:0;
