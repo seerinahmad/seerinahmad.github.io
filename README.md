@@ -33,7 +33,7 @@
 			#menu-bar-2-container {
 			    background-color:#A91717;
 				width:100%;
-				height:36px;
+				height:38px;
 				margin-top:10;
 			}
 			#menu-bar-2 {
