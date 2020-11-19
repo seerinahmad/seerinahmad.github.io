@@ -51,7 +51,7 @@
 			    background-color:#A91717;
 				width:100%;
 				height:50px;
-				margin-top:30;
+				margin-top:40;
 			}
 			#menu-bar-2 {
 			    width:100%;
@@ -160,5 +160,4 @@
 		</div>
 		</div>
 	 </body>
-	
 </html>
