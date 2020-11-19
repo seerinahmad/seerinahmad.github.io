@@ -17,15 +17,15 @@
 		    .topbar-section {
 			    float:left;
 				height:100%;
-				margin-left:20px;
-				margin-right:20px;
-				margin-top:10px;
+				margin-left:25px;
+				margin-right:25px;
+				margin-top:3px;
 			}
 			.topbar-menu {
 			    font-weight:bold;
 				font-size:85%;
 				padding:0px 0px 0px 0px;
-				height:20px;
+				height:28px;
 			}
 			.clear {
 			    clear:both;
