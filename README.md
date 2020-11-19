@@ -68,17 +68,17 @@
 				margin-right:auto;
 			}
 			#left {
-			    width:340px;
-				height:350px;
+			    width:300px;
+				height:300px;
 				float:left;
 			}
 			#right {
-			    width:660px;
-				float:right;
+			    width:430px;
+				float:left;
 				height:200px;
 			}
 			#MyPhoto {
-			   width:80%;
+			   width:90%;
 			   height:100%;
 			}
 		</style>	   
