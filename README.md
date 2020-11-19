@@ -17,7 +17,7 @@
 		    .topbar-section {
 			    float:left;
 				height:100%;
-				margin-left:45px;
+				margin-left:50px;
 				margin-right:25px;
 				margin-top:1px;
 			}
