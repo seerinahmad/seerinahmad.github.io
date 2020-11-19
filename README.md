@@ -31,12 +31,12 @@
 			    clear:both;
 			}
 			#menu-bar-container {
-			    background-color:#BB1919;
+			    background-color:#ef3232;
 				width:100%;
-				height:100px;
+				height:200px;
 			}
 			#menu-bar {
-			width:100%;
+			width:1000px;
 			margin:0 auto;
 			text-align: center;
 			}
