@@ -12,7 +12,7 @@
 			body {
 			   margin:0;
 			   padding:0;
-			   font-family: Times New Roman;
+			   font-family: Tahoma;
 			}
 		    .topbar-section {
 			    float:left;
@@ -25,7 +25,7 @@
 			    font-weight:bold;
 				font-size:85%;
 				padding:0px 0px 0px 0px;
-				height:20px;
+				height:10px;
 			}
 			.clear {
 			    clear:both;
