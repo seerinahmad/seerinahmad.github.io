@@ -149,7 +149,7 @@
 		      <div id="contentsection">
 		      <div id="left"><img id="MyPhoto" src="myphoto.jpg"></div>
 			  <div id="right">
-			  <p style="text-align:justify">Seerin Ahmad is a PhD Scholar at the 
+			  <p style="text-align:justify">Seerin Ahmad is a PhD Scholar at the -
 			  department of Electrical Engineering at National Taiwan University of 
 			  Science and Technology, Taipei, Taiwan. He finished his Master of 
 			  Science in Elecrical Engineering from Budapest University of Technology
