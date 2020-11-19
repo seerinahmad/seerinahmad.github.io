@@ -30,7 +30,12 @@
 			.clear {
 			    clear:both;
 			}
-
+                        }
+			#menu-bar-container {
+			    background-color:#BB1919;
+				width:100%;
+				height:100px;
+			}
 			#menu-bar-2-container {
 			    background-color:#A91717;
 				width:100%;
