@@ -36,7 +36,7 @@
 				height:100px;
 			}
 			#menu-bar {
-			width:1000px;
+			width:100%;
 			margin:0 auto;
 			text-align: center;
 			}
@@ -44,7 +44,7 @@
 			padding:0;
 			margin:0;
 			color:white;
-			font-size:40px;
+			font-size:20px;
 			padding-top:10px;
 			}
 			#menu-bar-2-container {
