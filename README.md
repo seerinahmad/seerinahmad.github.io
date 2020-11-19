@@ -31,7 +31,7 @@
 			    clear:both;
 			}
 			#menu-bar-container {
-			    background-color:#BB1919;
+			    background-color:#5E77A8;
 				width:100%;
 				height:100px;
 			}
