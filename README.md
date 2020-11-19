@@ -48,7 +48,7 @@
 				border-right:1px solid #BB4545;
 				font-size:15px;
 				position:relative;
-				top:7px;
+				top:5px;
 			}
 			#menu-bar-2 a:hover {
 			    text-decoration:underline;
