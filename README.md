@@ -36,6 +36,11 @@
 				width:100%;
 				height:100px;
 			}
+			#menu-bar {
+			width:300px;
+			margin:0 auto;
+			text-align: center;
+			}
 			#menu-bar-2-container {
 			    background-color:#A91717;
 				width:100%;
