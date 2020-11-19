@@ -121,7 +121,10 @@
 		<div id="main-article">
 		      <h2>Home</h2>
 		      <div id="contentsection">
-		      <div id="left">![myphoto](https://user-images.githubusercontent.com/46396856/99626099-72746f80-2a6c-11eb-89b3-284f4d4db7d1.jpg)</div>
+		      
+		      <div id="left">
+		      ![myphoto](https://user-images.githubusercontent.com/46396856/99626099-72746f80-2a6c-11eb-89b3-284f4d4db7d1.jpg)
+		      </div>
 			  <div id="right">
 			  <p style="text-align:justify">Seerin Ahmad is a PhD Scholar at the -
 			  department of Electrical Engineering at National Taiwan University of 
