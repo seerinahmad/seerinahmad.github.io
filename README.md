@@ -4,7 +4,7 @@
 	    <title>Home</title>
 		<style type="text/css">
 		    #topbar {
-			    width:1000px;
+			    width:500px;
 				margin:0 auto;
 				background-color:white;
 				height:20px;
