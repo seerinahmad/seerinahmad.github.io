@@ -30,23 +30,7 @@
 			.clear {
 			    clear:both;
 			}
-			#menu-bar-container {
-			    background-color:#ef3232;
-				width:100%;
-				height:200px;
-			}
-			#menu-bar {
-			width:1000px;
-			margin:0 auto;
-			text-align: center;
-			}
-			h1 {
-			padding:0;
-			margin:0;
-			color:white;
-			font-size:20px;
-			padding-top:10px;
-			}
+
 			#menu-bar-2-container {
 			    background-color:#A91717;
 				width:100%;
