@@ -30,7 +30,6 @@
 			.clear {
 			    clear:both;
 			}
-                        }
 			#menu-bar-container {
 			    background-color:#BB1919;
 				width:100%;
@@ -50,7 +49,7 @@
 			#menu-bar-2 {
 			    width:100%;
 			    margin:0 auto;
-				height:30px;
+				height:50px;
 			}
 			#menu-bar-2 a {
 			    color:white;
