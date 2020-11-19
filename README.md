@@ -6,7 +6,7 @@
 		    #topbar {
 			    width:1000px;
 				margin:0 auto;
-				background-color:#0E5AF0;
+				background-color:blue;
 				height:40px;
 			}
 			body {
@@ -31,7 +31,7 @@
 			    clear:both;
 			}
 			#menu-bar-container {
-			    background-color:#5E77A8;
+			    background-color:#green;
 				width:100%;
 				height:100px;
 			}
