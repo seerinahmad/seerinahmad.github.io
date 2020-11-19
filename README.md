@@ -1,13 +1,12 @@
 <html>
-    
 	<head>
 	    <title>Home</title>
 		<style type="text/css">
 		    #topbar {
 			    width:1000px;
 				margin:0 auto;
-				background-color:red;
-				height:40px;
+				background-color:white;
+				height:20px;
 			}
 			body {
 			   margin:0;
@@ -19,19 +18,19 @@
 				height:100%;
 				margin-left:25px;
 				margin-right:25px;
-				margin-top:3px;
+				margin-top:2px;
 			}
 			.topbar-menu {
 			    font-weight:bold;
 				font-size:85%;
 				padding:0px 0px 0px 0px;
-				height:28px;
+				height:20px;
 			}
 			.clear {
 			    clear:both;
 			}
 			#menu-bar-container {
-			    background-color:#green;
+			    background-color:#BB1919;
 				width:100%;
 				height:100px;
 			}
@@ -100,28 +99,5 @@
 			}
 		</style>	   
 	</head>		
-	
-	 <body>
-	 
-	    <div id="topbar">
-		    <div class="topbar-section topbar-menu">
-			 My Academic IDs</div>
-			<div class="topbar-section topbar-menu">
-			<a href="https://osf.io/8cp4a" style="text-decoration:none" target="_blank">CV</a></div>
-     	    <div class="topbar-section topbar-menu">
-			<a href="https://scholar.google.com/citations?user=mgEUY8gAAAAJ&hl=en" style="text-decoration:none" target="_blank">Google Scholar</a></div>
-			<div class="topbar-section topbar-menu">
-			<a href="https://orcid.org/0000-0001-8707-9951" style="text-decoration:none" target="_blank">ORCID iD</a></div>
-			<div class="topbar-section topbar-menu">
-			<a href="https://publons.com/researcher/3422595/seerin-ahmad/" style="text-decoration:none" target="_blank">PUBLONS</a></div>
-			<div class="topbar-section topbar-menu">
-			<a href="https://www.linkedin.com/in/seerinahmad/" style="text-decoration:none" target="_blank">LinkedIn</a></div>
-			<div class="topbar-section topbar-menu">
-			<a href="https://sciprofiles.com/profile/seerin_ahmad" style="text-decoration:none" target="_blank">SciProfiles</a></div>
-			<div class="topbar-section topbar-menu">
-			<a href="https://www.researchgate.net/profile/Seerin_Ahmad" style="text-decoration:none" target="_blank">ResearchGate</a></div>
-		</div>
 
-	 </body>
-	
 </html>
