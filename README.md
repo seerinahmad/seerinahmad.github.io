@@ -23,7 +23,7 @@
 			}
 			.topbar-menu {
 			    font-weight:bold;
-				font-size:14px;
+				font-size:12px;
 				padding:0px 0px 0px 0px;
 				height:1px;
 			}
